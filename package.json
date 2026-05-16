@@ -1,7 +1,7 @@
 {
   "name": "jando360-relay-engine",
-  "version": "9006.0",
-  "description": "JANDO360° Local Relay Engine - Network scanner & persistent vault",
+  "version": "2.0.0",
+  "description": "JANDO360 Enhanced Relay - Network Control + Internet Research + Public APIs",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -9,7 +9,7 @@
   "dependencies": {
     "express": "^4.18.2"
   },
-  "keywords": ["network-scanner", "relay-server", "jando360"],
-  "author": "MIKE [TITAN]",
+  "keywords": ["network-scanner", "relay-server", "jando360", "public-apis"],
+  "author": "MIKE TITAN",
   "license": "MIT"
 }
